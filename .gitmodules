@@ -1,0 +1,3 @@
+[submodule "hackathon_projects/jbfiche"]
+	path = hackathon_projects/jbfiche
+	url = https://github.com/jbfiche/MCP_hakathon.git
